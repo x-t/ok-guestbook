@@ -1,5 +1,5 @@
 # ok-guestbook
-a simple (inefficient) guestbook written in pure php  
+A simple, small but inefficient, guestbook written in pure PHP (while on PCP).  
 
 ## how to set it up
 files  
